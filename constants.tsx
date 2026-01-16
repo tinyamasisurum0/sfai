@@ -57,7 +57,7 @@ export const COMPANY_CONFIG = {
   // Legal & Copyright
   copyright: {
     year: 2025,
-    companyName: 'SalesforceTroopAi',
+    companyName: 'Data360SF',
   },
   
   // Branding Colors (already in tailwind.config.ts, but keeping for reference)
@@ -69,8 +69,8 @@ export const COMPANY_CONFIG = {
   
   // Site Metadata
   site: {
-    url: 'https://sfai.netlify.app',
-    defaultTitle: 'SalesforceTroopAi | AI-Powered Salesforce Solutions',
+    url: 'https://data360sf.netlify.app',
+    defaultTitle: 'Data360SF | AI-Powered Salesforce Solutions',
     defaultDescription: 'Transform your business with AI-powered Salesforce solutions. Get 30% more productivity and 2X ROI with our expert implementation.',
   },
   
